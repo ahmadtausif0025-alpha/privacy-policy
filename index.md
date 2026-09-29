@@ -1,8 +1,6 @@
-# Privacy Policy for [App Name]
+# Privacy Policy for Reverse Image Search
 
-**Last updated:** [Month Day, Year]
-
-This Privacy Policy explains how [Company Name] ("we", "us", "our") handles information when you use the [App Name] mobile application (the "App"). By using the App, you agree to the practices described here.
+This Privacy Policy explains how ("we", "us", "our") handles information when you use the Reverse Image Search mobile application (the "App"). By using the App, you agree to the practices described here.
 
 ---
 
@@ -112,6 +110,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have any questions about this Privacy Policy, please contact:
 
-**[Company Name]**
-[Address, City, Country]
-Email: [contact email]
+Email: bettydsims155@gmail.com
